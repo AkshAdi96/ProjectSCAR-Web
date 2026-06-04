@@ -1,0 +1,2 @@
+C:\Users\Aditya Ray\Project_SCAR\Project_SCAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Aditya Ray\Project_SCAR\Project_SCAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

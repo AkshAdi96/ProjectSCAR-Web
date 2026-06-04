@@ -1,0 +1,11 @@
+{
+    "asset": "c332fb75acd1dd042beae8cbdc3c19ad",
+    "fileName": "019b1ea9-3132-7372-86f6-49eeb1258cb3_Preview.png",
+    "prompt": "Create a colorful material for a cube.",
+    "negativePrompt": "",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 585188210,
+    "w3CTraceId": "a0dd91bd6f8b26f0d75561c9fe93c91e",
+    "refinementMode": "Generation"
+}
